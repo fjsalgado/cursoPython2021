@@ -6,7 +6,7 @@ import os
 import sys
 
 import pandas as pd
-import nuestra_biblioteca
+#import nuestra_biblioteca
 
 x = 10
 
