@@ -1,4 +1,5 @@
 import datetime
+# Importando solamente un módulo de la clase
 from FestivalMusical import FestivalMusical
 
 # Se crea una instancia de la clase FestivalMusical

@@ -55,3 +55,6 @@ coche_electrico.conducir()
 
 # Mostrar la o las clases de la cual se está heredando
 print(CocheElectrico.__mro__)
+
+# Información sobre la clase (métodos, herencia...)
+print(help(coche_electrico))
