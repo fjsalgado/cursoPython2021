@@ -1,0 +1,7 @@
+{
+    "Nombre": "Juan",
+    "Apellidos": "Perez L\u00f3pez",
+    "Genero": "masculino",
+    "Direccion": { "Calle": "Gran Via, 55", "Ciudad": "Barcelona", "Codigo Postal": "08000" },
+    "Telefonos": [{ "tipo": "casa", "numero": "55555555" }]
+}
