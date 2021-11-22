@@ -1,0 +1,20 @@
+AI; French Afars and Issas; AIDJ; Code later reassigned to Anguilla
+BQ; British Antarctic Territory; BQAQ; Code later reassigned to Bonaire, Sint Eustatius and Saba
+CT; Canton and Enderbury Islands; CTKI; 
+DD; German Democratic Republic; DDDE; Code taken from name in German: Deutsche Demokratische Republik Common name: East Germany
+DY; Dahomey; DYBJ; Name changed to Benin (BJ)The code is now indeterminately reserved.
+FQ; French Southern and Antarctic Territories; FQHH; See TF and FR-TF.
+GE; Gilbert Islands (initially Gilbert and Ellice Islands); GEHH; Code later reassigned to Georgia
+HV; Upper Volta; HVBF; Code taken from name in French: Haute-Volta
+JT; Johnston Island; JTUM; 
+MI; Midway Islands; MIUM; 
+NH; New Hebrides; NHVU; 
+NQ; Dronning Maud Land; NQAQ; Part of Norwegian Antarctic Territory
+PC; Pacific Islands (Trust Territory); PCHH; 
+PU; United States Miscellaneous Pacific Islands; PUUM; Consisted of Baker Island, Howland Island, Jarvis Island, Kingman Reef, and Palmyra Atoll
+PZ; Panama Canal Zone; PZPA; 
+RH; Southern Rhodesia; RHZW; Name used by country itself: Rhodesia (Southern Rhodesia was the colonial name)
+SK; Sikkim; SKIN; Code later reassigned to Slovakia
+VD; Viet-Nam, Democratic Republic of; VDVN; Common name: North Vietnam
+WK; Wake Island; WKUM; 
+YD; Yemen, Democratic; YDYE; Common name: South Yemen
