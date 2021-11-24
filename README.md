@@ -104,7 +104,7 @@ pyinstaller hola.py
 
 # Instalar y ejecutar Jupyter (kernel con entorno web)
 pip install jupyter
-jupiter notebook
+jupyter notebook
 
 # Instalar y ejecutar IPython (shell interactiva para python)
 pip install ipython
